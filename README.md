@@ -7,17 +7,17 @@ Aqui estão implementações práticas, anotações e testes para estudo e revis
 
 ## 🗂️ Estrutura
 
-data-structures-in-c/
-├── docs/ → Anotações teóricas e explicações
-├── src/ → Códigos das estruturas de dados
-│ ├── arrays/
-│ ├── listas/
-│ ├── pilhas/
-│ ├── filas/
-│ ├── arvores/
-│ ├── grafos/
-│ └── ordenacao/
-└── tests/ → Testes das implementações
+    data-structures-in-c/
+    ├── docs/        → Anotações teóricas e explicações
+    ├── src/         → Códigos das estruturas de dados
+    │   ├── arrays/
+    │   ├── listas/
+    │   ├── pilhas/
+    │   ├── filas/
+    │   ├── arvores/
+    │   ├── grafos/
+    │   └── ordenacao/
+    └── tests/       → Testes das implementações
 
 ---
 
